@@ -2,9 +2,8 @@
 
 The interactive `.pbix` file is too large to store directly in this repository (172MB, exceeding GitHub's standard file size limits). It's available instead via this repository's **Releases** page:
 
-**[Download the Power BI dashboard (.pbix)](../../releases)**
+**[Download the Power BI dashboard (.pbix)](https://github.com/Nikhil-Pallam/lendingclub-credit-risk-analytics/releases/download/v1.0/Lending_Club_Credit_Risk_Analytics.pbix)**
 
-*(Update this link to point to the specific release once published.)*
 
 ## What's included
 
